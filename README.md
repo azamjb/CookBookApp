@@ -1,6 +1,8 @@
 # CookBookApp
 Cook Book IOS app, displaying recipes for various classic dishes and desserts!
 
+Visually appealing responsive UI that displays recipes stored in JSON format, in both a list view and featured view
+
 Includes a featured page highlighting certain recipes
 
 Includes list of all recipes, each of which can be clicked into for ingredients and directions
